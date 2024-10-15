@@ -8,7 +8,7 @@ function Landing() {
       <div className='container-fluid '>
         <Row>
           <Col className='d-flex flex-column justify-content-center'>
-            <img src="https://cdn2.iconfinder.com/data/icons/flat-illustrations-1/550/Online_Contacts-512.png" alt="" />
+            <img src="https://img.freepik.com/free-vector/contact-center-abstract-concept_335657-3032.jpg" alt="" />
           </Col>
           <Col>
             <h1 className='text-primary fw-light mt-5' style={{ fontSize: '60px' }}>Contact<br /> Management <br />System</h1>
